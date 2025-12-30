@@ -71,7 +71,7 @@ A RESTful API build with Spring Boot that manages trader economy data for a Red 
 
 ## Author
 
-[Your Name]
+[Juwan Burns]
 ```
 
 ---
