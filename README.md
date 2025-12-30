@@ -73,23 +73,3 @@ A RESTful API build with Spring Boot that manages trader economy data for a Red 
 
 [Juwan Burns]
 ```
-
----
-
-### 2. Add a .gitignore (if not already present)
-
-Make sure you have a `.gitignore` file in your project root. Spring Initializr should have created one, but verify it includes:
-```
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
-.idea
-*.iws
-*.iml
-*.ipr
-
-.vscode/
-
-.DS_Store
