@@ -85,14 +85,11 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 
-### IntelliJ IDEA ###
 .idea
 *.iws
 *.iml
 *.ipr
 
-### VS Code ###
 .vscode/
 
-### Mac ###
 .DS_Store
