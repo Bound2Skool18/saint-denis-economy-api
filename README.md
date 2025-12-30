@@ -1,4 +1,4 @@
-Saint Denis Economy API
+###Saint Denis Economy API
 
 A RESTful API build with Spring Boot that manages trader economy data for a Red Dead Redemption 2 inspired trading system.
 
