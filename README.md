@@ -59,7 +59,7 @@ A RESTful API build with Spring Boot that manages trader economy data for a Red 
   "profit": 50.0,
   "deliveryTimeMinutes": 15
 }
-```
+
 
 ## Future Enhancements
 
@@ -72,4 +72,4 @@ A RESTful API build with Spring Boot that manages trader economy data for a Red 
 ## Author
 
 [Juwan Burns]
-```
+
